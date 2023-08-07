@@ -29,7 +29,7 @@ const Detail = () => {
   }, [id]); // Adicionando "id" como dependência para que o efeito seja reexecutado quando o ID mudar
 
   return (
-    <Container className="content-form vh-70 d-flex justify-content-center p-5">
+    <Container className="content-form d-flex justify-content-center p-5">
       { userByID 
         ? 
         <Card item={userByID} /> 

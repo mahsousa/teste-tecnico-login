@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import CardList from './CardList';
 import UserService from '../../services/UserService';
+import "./card.css";
 
 const userService = new UserService();
 
@@ -14,10 +15,10 @@ const MyComponent = () => {
       .catch((error) => console.error(error));
   }, []);
 
-  const itemsPerPage = 9; // Number of cards to display per page
+  const itemsPerPage = 12; // Number of cards to display per page
 
   return (
-    <div>
+    <div className="card-wrapper">
       <CardList data={users} itemsPerPage={itemsPerPage} />
     </div>
   );

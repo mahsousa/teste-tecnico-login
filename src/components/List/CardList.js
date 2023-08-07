@@ -20,18 +20,18 @@ const CardList = ({ data, itemsPerPage }) => {
   };
 
   return (
-    <Container fluid className="content-form vh-70 d-flex justify-content-center p-5">
-      <Container className="border rounded-4 p-3 position-relative h-100">
+    <Container fluid className="content-form d-flex justify-content-center p-5">
+      <Container className="border rounded-4 p-3 h-100">
         <Row>
           {currentItems.map((item) => (
-            <Col key={item.id} md="4" className="mb-4">
+            <Col key={item.id} md="6" lg="4" className="mb-4">
               {/* Renderizar o componente Card */}
               <Card item={item} />
             </Col>
           ))}
         </Row>
         <Row>
-          <Col>
+          <Col className='navigation'>
             {/* Renderizar o componente Navigation */}
             <Navigation
               currentPage={currentPage}

@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navigation = ({ currentPage, totalPages, handlePageChange }) => {
   return (
-    <div className='position-absolute bottom-0 start-0 end-0 ' >
+    <div>
       <nav aria-label="Page navigation">
         <ul className="pagination justify-content-center">
           {/* Navegação */}
