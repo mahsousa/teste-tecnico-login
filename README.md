@@ -1,3 +1,6 @@
+![2](https://github.com/mahsousa/teste-login/assets/32987989/6b1b311a-7a2a-4903-9fe6-44a0f97cc8f5)
+![1](https://github.com/mahsousa/teste-login/assets/32987989/de85c95c-2448-4b36-b3cc-c9277d661d09)
+
 # DESCRIÇÃO DO TESTE:
 
 Você será responsável por criar uma tela de autenticação, onde o usuário deverá preencher dois campos, um de login e um de senha, ambos alfanuméricos. Essa tela não fará o consumo de APIs e deve fazer autenticar o usuário que inserir os dados "vendemmia" e senha "123123123". Demais usuários e senha devem ser tidos como inválidos.
