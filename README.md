@@ -12,9 +12,9 @@ Se achar necessária a ordenação dos dados, use os parâmetros "sortBy=" com o
 Se possível, permitir a visualização em detalhes destes usuários, utilizando a API (trocando ":id" pelo ID do usuário em questão na API anterior):
 GET https://63a1c51eba35b96522e7a1b1.mockapi.io/vdm/Users/:id
 
+
 #
-#
-#
+
 
 # Introdução ao Create React App
 
