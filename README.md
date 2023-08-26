@@ -1,4 +1,4 @@
-#DESCRIÇÃO DO TESTE:
+# DESCRIÇÃO DO TESTE:
 
 Você será responsável por criar uma tela de autenticação, onde o usuário deverá preencher dois campos, um de login e um de senha, ambos alfanuméricos. Essa tela não fará o consumo de APIs e deve fazer autenticar o usuário que inserir os dados "vendemmia" e senha "123123123". Demais usuários e senha devem ser tidos como inválidos.
 
