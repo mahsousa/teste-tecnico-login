@@ -56,33 +56,3 @@ Se você não está satisfeito com a ferramenta de compilação e as escolhas de
 Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc.) diretamente para o seu projeto, dando a você controle total sobre eles. Todos os comandos, exceto `eject`, ainda funcionarão, mas apontarão para os scripts copiados para que você possa ajustá-los. Neste ponto, você está por conta própria.
 
 Você não precisa necessariamente usar o `eject`. O conjunto de recursos selecionados é adequado para implantações pequenas e médias, e você não deve se sentir obrigado a usar esse recurso. No entanto, entendemos que essa ferramenta não seria útil se você não pudesse personalizá-la quando estiver pronto para isso.
-
-## Saiba Mais
-
-Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
-
-Para aprender React, consulte a [documentação do React](https://reactjs.org/).
-
-### Divisão de Código
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Análise do Tamanho do Pacote
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle_size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle_size)
-
-### Criando um Progressive Web App
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Configuração Avançada
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Implantação
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### Falha em `npm run build` ao minificar
-
-Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
