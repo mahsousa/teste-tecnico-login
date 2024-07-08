@@ -19,10 +19,6 @@ GET https://63a1c51eba35b96522e7a1b1.mockapi.io/vdm/Users/:id
 #
 
 
-# Introdução ao Create React App
-
-Este projeto foi iniciado com o [Create React App](https://github.com/facebook/create-react-app).
-
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
@@ -40,7 +36,10 @@ Você também pode ver quaisquer erros de lint no console.
 Compila a aplicação para produção na pasta `build`.\
 Ele agrupa o React no modo de produção e otimiza a compilação para obter o melhor desempenho.
 
-O build é minificado e os nomes dos arquivos incluem os hashes.\
-Sua aplicação está pronta para ser implantada!
+## RODAR OS COMANDOS NO TERMINAL
+npm install
 
-Consulte a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
+CERTIFICAR-SE DE TER O NODE.JS INSTALADO
+USE O CODIGO NO TERMINAL
+
+npm run dev - Ambiente de desenvolvimento
